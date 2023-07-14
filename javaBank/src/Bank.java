@@ -1,5 +1,5 @@
 public class Bank {
-  public String nome;
+  private String nome;
 
   public String getNome(){
     return nome;
